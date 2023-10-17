@@ -1,0 +1,27 @@
+D:\C#\barez computer\barez computer\bin\Debug\barez computer.exe.config
+D:\C#\barez computer\barez computer\bin\Debug\barez computer.exe
+D:\C#\barez computer\barez computer\bin\Debug\barez computer.pdb
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.csproj.AssemblyReference.cache
+D:\C#\barez computer\barez computer\obj\Debug\barez_computer.Form1.resources
+D:\C#\barez computer\barez computer\obj\Debug\barez_computer.Properties.Resources.resources
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.csproj.GenerateResource.cache
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.csproj.CoreCompileInputs.cache
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.exe
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.pdb
+D:\C#\barez computer\barez computer\obj\Debug\Interop.WMPLib.dll
+D:\C#\barez computer\barez computer\obj\Debug\barez computer.csproj.ResolveComReference.cache
+D:\C#\barez computer\barez computer\obj\Debug\barez_computer.Game.resources
+C:\Users\SABAT\Desktop\barez computer\barez computer\bin\Debug\barez computer.exe.config
+C:\Users\SABAT\Desktop\barez computer\barez computer\bin\Debug\barez computer.exe
+C:\Users\SABAT\Desktop\barez computer\barez computer\bin\Debug\barez computer.pdb
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.csproj.AssemblyReference.cache
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.csproj.SuggestedBindingRedirects.cache
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\Interop.WMPLib.dll
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.csproj.ResolveComReference.cache
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez_computer.Form1.resources
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez_computer.Game.resources
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez_computer.Properties.Resources.resources
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.csproj.GenerateResource.cache
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.csproj.CoreCompileInputs.cache
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.exe
+C:\Users\SABAT\Desktop\barez computer\barez computer\obj\Debug\barez computer.pdb
